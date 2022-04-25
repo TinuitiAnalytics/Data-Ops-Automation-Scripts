@@ -1,0 +1,13 @@
+{
+    "cadre.v_google_ads_campaign_nbt": 
+                                        {
+                                            "expected_device_values":["Tablets with full browsers","Other","MOBILE","Mobile devices with full browsers","Devices streaming video content to TV screens","OTHER","TABLET"],
+                                            "expected_brand_values":["Brand","Undefined"],
+                                            "dimensions":["device","brand"]
+                                        },
+    "wish.v_google_ads_keyword_tinuiti":
+                                        {
+                                            "expected_device_values":["Computers","Mobile devices with full browsers"],
+                                            "dimensions":["device"]
+                                        }
+}
